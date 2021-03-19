@@ -5,6 +5,7 @@ public class Location {
 	
 	//attribute declaration
 	@SuppressWarnings("unused")
+	private int locate;
 	private int location;
 	
 	public void setLocation(int location) {
